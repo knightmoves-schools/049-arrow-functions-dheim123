@@ -1,2 +1,3 @@
-let add = (a + b) => a + b;
+let add = (1 + 2) => 1 + 2;
+
 
